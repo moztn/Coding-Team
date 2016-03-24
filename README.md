@@ -22,6 +22,7 @@ To start with Mozilla projects and technologies, we recommand our best ressource
 
 ### Local projects :
 We will be listing the local projects which have priority, but you can start with these [check the issues for bugs and features] :
+- [Project Rueppell](https://github.com/moztn/Rueppell) Our **new** community website project. Skills needed : HTML/CSS
 - [The Mozilla Tunisia website](https://github.com/moztn/www-moztn) Skills needed : Python, Flask, HTML/CSS
 - [Slides project](https://github.com/moztn/slides-moztn) Skills needed : Python
 - [Github Dashboard](https://github.com/moztn/moztn.github.com) Skills needed : HTML5, CSS, Javascript
